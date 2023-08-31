@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">GameList</string>
+
+    <string name="title">Nama game</string>
+    <string name="description">Detail game</string>
+    <string name="about">About Me</string>
+    <string name="my_name">Irfando Aritonang</string>
+    <string name="email1">syaddad.developer@gmail.com</string>
+    <string name="email2">muhammadsyaddad31@gmail.com</string>
+    <string name="name">M. Syaddad.G.Al Farez</string>
+    <string name="price">Price</string>
+    <string name="description_price">dummy price</string>
+    <string name="release">Release</string>
+    <string name="description_release">dummy release</string>
+    <string name="share">Share to Friends</string>
+
+    <string-array name="data_name">
+        <item>Apex Legend</item>
+        <item>Baldur\'s Gate</item>
+        <item>Counter Strike</item>
+        <item>Cyberpunk</item>
+        <item>Dead by Daylight</item>
+        <item>Destiny 2</item>
+        <item>Dota 2</item>
+        <item>Forza Horizon 5</item>
+        <item>GTA</item>
+        <item>PUBG</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Apex Legends is the award-winning, free-to-play Hero Shooter from Respawn Entertainment. Master an ever-growing roster of legendary characters with powerful abilities, and experience strategic squad play and innovative gameplay in the next evolution of Hero Shooter and Battle Royale.</item>
+        <item>Baldur’s Gate 3 is a story-rich, party-based RPG set in the universe of Dungeons &amp; Dragons, where your choices shape a tale of fellowship and betrayal, survival and sacrifice, and the lure of absolute power</item>
+        <item>With its extensive Tour of Duty campaign, a near-limitless number of skirmish modes, updates and new content for Counter-Strike\'s award-winning multiplayer game play, plus over 12 bonus single player missions</item>
+        <item>Cyberpunk 2077 is an open-world, action-adventure RPG set in the dark future of Night City — a dangerous megalopolis obsessed with power, glamor, and ceaseless body modification.</item>
+        <item>multiplayer survival horror &amp; action game where one player takes on the role of the Killer, and the other four players play as Survivors.</item>
+        <item>Destiny 2 is an action MMO with a single evolving world that you and your friends can join anytime, anywhere, absolutely free.</item>
+        <item>Every day, millions of players worldwide enter battle as one of over a hundred Dota heroes. </item>
+        <item>our Ultimate Horizon Adventure awaits! Explore the vibrant open world landscapes of Mexico with limitless, fun driving action in the world’s greatest cars. Conquer the rugged Sierra Nueva in the ultimate Horizon Rally experience.</item>
+        <item>When a young street hustler, a retired bank robber and a terrifying psychopath find themselvesGrand Theft Auto V for PC offers players the option to explore the award-winning world of Los Santos and Blaine County</item>
+        <item>Dragon fruit, also known as pitaya, is a tropical fruit native to Mexico, Central America, and South America. It is a member of the cactus family and has a colorful, spiky exterior.</item>
+    </string-array>
+
+    <string-array name="data_price">
+        <item>FREE (Get Now)</item>
+        <item>RP 699 999 (on Steam)</item>
+        <item>FREE (Get Now)</item>
+        <item>RP 699 999 (on Steam)</item>
+        <item>RP 149 000 (on Steam)</item>
+        <item>FREE (Get Now)</item>
+        <item>FREE (Get Now)</item>
+        <item>RP 349 500 (on Steam)</item>
+        <item>RP 153 600 (on Steam)</item>
+        <item>FREE (Get Now)</item>
+
+    </string-array>
+
+    <string-array name="data_release">
+        <item>5 Nov, 2020</item>
+        <item>3 Aug, 2023</item>
+        <item>22 Aug, 2012</item>
+        <item>10 Dec, 2020</item>
+        <item>14 Jun, 2016</item>
+        <item>1 Oct, 2019</item>
+        <item>10 Jul, 2013</item>
+        <item>9 Nov, 2021</item>
+        <item>14 Apr, 2015</item>
+        <item>21 Dec, 2017</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/apexlegend</item>
+        <item>@drawable/baldurgate</item>
+        <item>@drawable/counterstrike</item>
+        <item>@drawable/cyperbunk</item>
+        <item>@drawable/deadbydaylight</item>
+        <item>@drawable/destiny2</item>
+        <item>@drawable/dota2</item>
+        <item>@drawable/forzahorizon5</item>
+        <item>@drawable/gta</item>
+        <item>@drawable/pubg</item>
+    </integer-array>
+</resources>
